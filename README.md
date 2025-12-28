@@ -1,7 +1,7 @@
 # 🎮 Tic Tac Toe Game
 
 A simple and interactive **Tic Tac Toe** game built to demonstrate core programming concepts and logical thinking. This project is beginner-friendly, cleanly structured, and perfect for learning or showcasing on GitHub.
----
+
 
 ## 🌐 Live Project
 
