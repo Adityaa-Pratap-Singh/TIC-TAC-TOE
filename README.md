@@ -23,5 +23,11 @@ A simple and interactive **Tic Tac Toe** game built to demonstrate core programm
 
 ---
 
-## 📂 Project Structure
+## 🎮 How to Play
+
+- Player **X** starts the game  
+- Players take turns marking empty cells  
+- The first player to align **3 symbols** (row, column, or diagonal) wins  
+- If all cells are filled and no player wins, the game ends in a **draw**
+
 
